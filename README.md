@@ -1,16 +1,5 @@
-# calculator
+As far as i tried i could not make the calculator app I forked from you (https://github.com/huseyinsimsek/cet_calculater) work.
+I think this problem has something to do with the versions of the programs.
+So I made my calculator from scatch.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hope you like it!
